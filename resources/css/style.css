@@ -27,12 +27,14 @@ font-family: Helvetica;
   font-weight: bold;
 }
 
+/*paragraph style for process_section and work_team_contact classes*/
 .process_section p, .work_team_contact p {
   font-family: Helvetica;
   font-size: 14px;
   font-weight: normal;
 }
 
+/*Designed in NY banner*/
 .designed_in_ny {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-repeat: no-repeat;
@@ -43,6 +45,7 @@ font-family: Helvetica;
   color: white;
 }
 
+/*footer class and footer links*/
 .footer, .footer a {
   font-size: 11px
   font-family: Helvetica;
@@ -52,6 +55,7 @@ font-family: Helvetica;
   padding-left: 3px
 }
 
+/*link color*/
 a:link, a:visited, a:hover, a:active {
   color: white;
 }
